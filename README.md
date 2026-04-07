@@ -3,7 +3,7 @@
 A modern and responsive landing page built using **HTML5 & CSS3**.  
 This project is part of my front-end practice to improve layout structuring, responsive design, and UI styling skills.
 
-👉 [View Project]( https://sherift911.github.io/Template-1---Responsive-Landing-Page-HTML-CSS-/)
+👉 [View Project](https://sherift911.github.io/Template-3-Landing-Page--HTML--CSS/)
 ![Template-3-Landing-Page--HTML--CSS](images/site.png)
 
 ---
