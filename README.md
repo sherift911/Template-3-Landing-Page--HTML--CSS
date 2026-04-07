@@ -33,5 +33,25 @@ index.html
 README.md
 
 ---
+🎯 Purpose
+
+This project was created to practice:
+
+  Responsive web design
+  UI/UX structuring
+  CSS animations and layout systems
+  
+---
+
+📌 Future Improvements
+Add JavaScript interactions
+Improve animations with scroll effects
+Convert to React version
+Add dark mode
+
+---
+
+👨‍💻 Author
+sherif khater
 
 
